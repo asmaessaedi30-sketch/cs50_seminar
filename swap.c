@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    int x = 5;
+    int x = 51;
     int y = 10;
 
     printf("x is %d\n", x)
