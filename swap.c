@@ -3,6 +3,9 @@
 
 int main(void)
 {
+    int x = 5;
+    int y = 10;
+
     printf("x is %d\n", x)
     printf("y is %d\n", y)
 
